@@ -3,4 +3,4 @@
  - Arroz
  - Feijão
 
-:dog2: :tiger2: 1
+:dog2: :tiger2:
